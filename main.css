@@ -1,0 +1,62 @@
+h1 {text-align: LEFT;
+    font-size: 15p;
+ font-family: cursive, sans-serif;}
+ p {text-align: right;
+   font-family:cursive, sans-serif;
+   }
+ h2 {
+   text-align: CENTER;
+   font-size: 15p;
+ }
+ 
+ h4 {text-align: CENTER;
+ font-size: 15p;}
+ 
+ body {
+   background-color: gray;
+     font-size: 18px;
+   font-family: serif, monospace}
+
+    
+ .column1{
+     
+     width:330px;
+     float:left;
+     height:inherit;
+   
+   }
+
+   .column2{
+       
+       width:330px;
+       float:right;
+       height:inherit;
+   }
+    .column3 {
+        
+        width:330px;
+        height:inherit;
+        float:right;
+    }
+ .content {
+     width:1000px;   
+     height:100px;    
+     margin-left:100px;
+}
+    img {border: solid 6px purple;}
+
+    .nav-bar {
+        
+        background-color: ;
+    
+    }
+    .nav-bar ul {
+                margin-left:300px;
+    }
+    .nav-bar ul li{
+        display: inline;
+        margin:10px;
+
+    }
+
+ 
